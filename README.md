@@ -35,16 +35,16 @@ I'm a web developer focused on building modern and interactive applications.
 
 ### 🎬 Movie Browser
 
-A movie browsing application built with React and TypeScript that uses external APIs to fetch and display movie information.
+A React and JavaScript movie discovery application that fetches data from external APIs and provides a modern browsing experience.
 
 **Technologies:**
 
 * React
-* TypeScript
+* JavaScript
 * API Integration
 * Responsive UI Development
 
-🔗 [View Repository](YOUR_MOVIE_BROWSER_REPO_LINK)
+🔗 [View Repository](https://github.com/varunn29/Movie-Browser)
 
 ---
 
