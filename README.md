@@ -42,7 +42,6 @@ A React and JavaScript movie discovery application that fetches data from extern
 * React
 * JavaScript
 * API Integration
-* Responsive UI Development
 
 🔗 [View Repository](https://github.com/varunn29/Movie-Browser)
 
@@ -59,7 +58,7 @@ A blog application where users can create, manage, and view posts with data pers
 * Local Storage
 * Component-based architecture
 
-🔗 [View Repository](YOUR_BLOG_APP_REPO_LINK)
+🔗 [View Repository](https://github.com/varunn29/Blog-App)
 
 ---
 
@@ -95,13 +94,9 @@ A blog application where users can create, manage, and view posts with data pers
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://github.com/varunn29">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunn29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-tomar-a5892b360/)
 
----
 
 ⭐ Thanks for visiting my profile!
 
