@@ -63,20 +63,6 @@ A blog application where users can create, manage, and view posts with data pers
 
 ---
 
-### 🌦️ Weather Application
-
-A weather application that fetches real-time weather information using external APIs.
-
-**Technologies:**
-
-* JavaScript
-* API Integration
-* Responsive UI
-
-🔗 [View Repository](YOUR_WEATHER_APP_REPO_LINK)
-
----
-
 ## 📖 Currently Learning
 
 * Advanced React patterns
