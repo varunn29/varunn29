@@ -6,12 +6,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a web developer focused on building modern and interactive applications.
 
-* 🌱 Currently improving my skills in React, TypeScript, and modern web technologies
-* 💻 I enjoy building projects and learning through practical development
-* 🚀 Interested in frontend development and open-source collaboration
-* 📚 Always learning and improving my skills through consistent practice
+I'm a frontend developer who enjoys learning by building projects. I like exploring new technologies and using them to turn ideas into real applications. Every project teaches me something new and helps me improve as a developer.
+
+- 🌱 Currently learning React, TypeScript, Next.js, and backend fundamentals
+- 🚀 Building projects to strengthen my development and problem-solving skills
+- 💡 Curious about new technologies and always looking for opportunities to learn
+- 📚 Exploring modern web development one project at a time
 
 ---
 
@@ -33,42 +34,27 @@ I'm a web developer focused on building modern and interactive applications.
 
 ## 🚀 Featured Projects
 
-### 🎬 Movie Browser
+### 🌟 DevScope
 
-A React and JavaScript movie discovery application that fetches data from external APIs and provides a modern browsing experience.
+A modern blogging platform built with React and TypeScript that combines articles from the DEV.to API with a complete local blogging experience, allowing users to discover articles and create their own posts.
 
-**Technologies:**
+**Highlights**
+- Browse articles from the DEV.to API
+- Create, edit and delete your own posts
+- Responsive interface built with Tailwind CSS
 
-* React
-* JavaScript
-* API Integration
+**Tech Stack**<br>
+React • TypeScript • Tailwind CSS • React Router • Vite
 
-🔗 [View Repository](https://github.com/varunn29/Movie-Browser)
-
----
-
-### ✍️ Blog Application
-
-A blog application where users can create, manage, and view posts with data persistence using local storage.
-
-**Technologies:**
-
-* React
-* TypeScript
-* Local Storage
-* Component-based architecture
-
-🔗 [View Repository](https://github.com/varunn29/Blog-App)
+🔗 [Live Demo](https://devscope-bay.vercel.app/) | 💻 [Repository](https://github.com/varunn29/Blog-App)
 
 ---
 
-## 📖 Currently Learning
+## 🚧 Currently Building & Learning
 
-* Advanced React patterns
-* TypeScript best practices
-* Next.js
-* Backend fundamentals
-* Open-source contribution workflows
+- 🚀 Building projects that strengthen my frontend development skills
+- 🌱 Learning Next.js and backend fundamentals through practical projects
+- 📚 Exploring Git, GitHub, and open-source workflows
 
 ---
 
@@ -96,7 +82,3 @@ A blog application where users can create, manage, and view posts with data pers
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunn29)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-tomar-a5892b360/)
-
-
-⭐ Thanks for visiting my profile!
-
