@@ -1,51 +1,33 @@
 ![Varun Kumar Tomar](./header.svg)
 
 | **Full-Stack Developer / Builder.** Building, exploring, and creating. | [Portfolio](https://www.varunn.tech/) · [LinkedIn](https://www.linkedin.com/in/varunnn29/) · [X](https://x.com/varunnn29) |
-| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 
-<h4>
-I build full-stack applications, backend systems, and developer-focused projects while exploring open source, cloud, AI, and blockchain.
-</h4>
-
-<br>
+<h4>I build full-stack applications, backend systems, and developer-focused projects while exploring open source, cloud, AI, and blockchain.</h4>
 
 ## What I am building
-
-<br>
 
 `match-point`
 
 > A sports gaming platform built around match-based betting workflows. Users can explore matches, view selections and odds, and place bets through a structured application flow. Built with a focus on backend architecture, API workflows, validation, and relational data management.
 
-<br>
-
 `resolve-desk`
 
 > A support ticket platform connecting customers and agents through structured ticket and conversation workflows. Customers can raise and track issues while agents can manage conversations and handle the support process through an organized workflow.
-
-<br>
 
 `nudge`
 
 > A mobile reminder application for creating and managing recurring reminders. It focuses on scheduled notifications, persistent reminder data, and a simple workflow for keeping track of tasks throughout the day.
 
-<br>
-
 `compass-bot`
 
 > A Discord bot combining community functionality with AI-powered features. It uses persistent database storage and AI capabilities for tasks such as sentiment analysis and conversation summarization.
 
-<br>
-
-`satya-chain`
+`satya-chain` 
 
 > A blockchain project exploring privacy-preserving verification and decentralized application workflows. The project investigates how blockchain infrastructure and privacy-oriented mechanisms can be combined to verify information while minimizing unnecessary exposure of underlying data.
 
-<br>
-
 ## What I work with
-
-<br>
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
