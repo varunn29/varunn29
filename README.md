@@ -3,7 +3,7 @@
 | **Full-Stack Developer / Builder.** Building, exploring, and creating. | [Portfolio](https://www.varunn.tech/) · [LinkedIn](https://www.linkedin.com/in/varunnn29/) · [X](https://x.com/varunnn29) |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 
-I build **full-stack applications, backend systems, and developer-focused projects while exploring open source, cloud, AI, and blockchain.**
+<h4>I build full-stack applications, backend systems, and developer-focused projects while exploring open source, cloud, AI, and blockchain.</h4>
 
 ## Projects
 
