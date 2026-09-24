@@ -1,4 +1,4 @@
-# Varun Kumar Tomar
+![Varun Kumar Tomar](./header.svg)
 
 | **Full-Stack Developer / Builder.** Building, learning, and shipping. | [Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [X](https://x.com/varunnn29) |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
