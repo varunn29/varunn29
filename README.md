@@ -1,84 +1,42 @@
-# Hi there, I'm Varun 👋
+# Varun Kumar Tomar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%7C+TypeScript+Developer;Building+Projects+and+Learning+Open+Source&center=true&width=600&height=45">
-</p>
+| **Full-Stack Developer / Builder.** Building, learning, and shipping. | [Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [X](https://x.com/varunnn29) |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 
-## 👨‍💻 About Me
+I build **full-stack applications, backend systems, and developer-focused projects while exploring open source, cloud, AI, and blockchain.**
 
+## Projects
 
-I'm a frontend developer who enjoys learning by building projects. I like exploring new technologies and using them to turn ideas into real applications. Every project teaches me something new and helps me improve as a developer.
+`match-point`
 
-- 🌱 Currently learning React, TypeScript, Next.js, and backend fundamentals
-- 🚀 Building projects to strengthen my development and problem-solving skills
-- 💡 Curious about new technologies and always looking for opportunities to learn
-- 📚 Exploring modern web development one project at a time
+> A sports gaming platform built around match-based betting workflows. Users can explore matches, view selections and odds, and place bets through a structured application flow. Built with a focus on backend architecture, API workflows, validation, and relational data management.
 
----
+`resolve-desk`
 
-## 🛠️ Tech Stack
+> A support ticket platform connecting customers and agents through structured ticket and conversation workflows. Customers can raise and track issues while agents can manage conversations and handle the support process through an organized workflow.
 
-### Frontend
+`nudge`
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
-</p>
+> A mobile reminder application for creating and managing recurring reminders. It focuses on scheduled notifications, persistent reminder data, and a simple workflow for keeping track of tasks throughout the day.
 
-### Tools & Platforms
+`compass-bot`
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
+> A Discord bot combining community functionality with AI-powered features. It uses persistent database storage and AI capabilities for tasks such as sentiment analysis and conversation summarization.
 
----
+`satya-chain` 
 
-## 🚀 Featured Projects
+> A blockchain project exploring privacy-preserving verification and decentralized application workflows. The project investigates how blockchain infrastructure and privacy-oriented mechanisms can be combined to verify information while minimizing unnecessary exposure of underlying data.
 
-### 🌟 DevScope
+## Tech Stack
 
-A modern blogging platform built with React and TypeScript that combines articles from the DEV.to API with a complete local blogging experience, allowing users to discover articles and create their own posts.
-
-**Highlights**
-- Browse articles from the DEV.to API
-- Create, edit and delete your own posts
-- Responsive interface built with Tailwind CSS
-
-**Tech Stack**<br>
-React • TypeScript • Tailwind CSS • React Router • Vite
-
-🔗 [Live Demo](https://devscope-bay.vercel.app/) | 💻 [Repository](https://github.com/varunn29/Blog-App)
-
----
-
-## 🚧 Currently Building & Learning
-
-- 🚀 Building projects that strengthen my frontend development skills
-- 🌱 Learning Next.js and backend fundamentals through practical projects
-- 📚 Exploring Git, GitHub, and open-source workflows
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=varunn29&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunn29&hide_border=true&theme=transparent" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunn29&theme=github-compact" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunn29)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-tomar-a5892b360/)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/NODE.JS-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Prisma](https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
