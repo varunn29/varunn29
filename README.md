@@ -5,7 +5,7 @@
 
 <h4>I build full-stack applications, backend systems, and developer-focused projects while exploring open source, cloud, AI, and blockchain.</h4>
 
-## Projects
+## What I am building
 
 `match-point`
 
@@ -27,7 +27,7 @@
 
 > A blockchain project exploring privacy-preserving verification and decentralized application workflows. The project investigates how blockchain infrastructure and privacy-oriented mechanisms can be combined to verify information while minimizing unnecessary exposure of underlying data.
 
-## Tech Stack
+## What I work with
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
