@@ -19,14 +19,6 @@
 
 > A mobile reminder application for creating and managing recurring reminders. It focuses on scheduled notifications, persistent reminder data, and a simple workflow for keeping track of tasks throughout the day.
 
-`compass-bot`
-
-> A Discord bot combining community functionality with AI-powered features. It uses persistent database storage and AI capabilities for tasks such as sentiment analysis and conversation summarization.
-
-`satya-chain` 
-
-> A blockchain project exploring privacy-preserving verification and decentralized application workflows. The project investigates how blockchain infrastructure and privacy-oriented mechanisms can be combined to verify information while minimizing unnecessary exposure of underlying data.
-
 ## What I work with
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
