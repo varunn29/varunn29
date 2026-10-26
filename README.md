@@ -15,7 +15,7 @@
 
 > A sports gaming platform built around match-based betting workflows. Users can explore matches, view selections and odds, and place bets through a structured application flow. Built with a focus on backend architecture, API workflows, validation, and relational data management.
 
-`>` [./live-demo](https://match-point-rose.vercel.app/) · `>` [./source-code](https://github.com/varunn29/Match-Point)
+`>` [./live-demo](https://match-point-rose.vercel.app/)  `>` [./source-code](https://github.com/varunn29/Match-Point)
 
 `resolve-desk`
 
