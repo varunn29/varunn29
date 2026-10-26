@@ -1,4 +1,4 @@
-![Varun Kumar Tomar](./header.svg)
+![Varun Singh](./header.svg)
 
 <table>
   <tr>
