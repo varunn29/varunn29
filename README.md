@@ -1,4 +1,4 @@
-![Varun Singh](./header.svg)
+![Varun](./header.svg)
 
 <table>
   <tr>
