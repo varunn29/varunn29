@@ -1,7 +1,11 @@
 ![Varun Kumar Tomar](./header.svg)
 
-| **Full-Stack Developer / Builder.** Building, exploring, and creating. | |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+<table>
+  <tr>
+    <td><strong>Full-Stack Developer / Builder.</strong> Learning by building.</td>
+    <td></td>
+  </tr>
+</table>
 
 <h4>I build full-stack applications while exploring technologies across cloud computing, AI, and blockchain.</h4>
 
