@@ -15,7 +15,8 @@
 
 > A sports gaming platform built around match-based betting workflows. Users can explore matches, view selections and odds, and place bets through a structured application flow. Built with a focus on backend architecture, API workflows, validation, and relational data management.
 
-`>` [./live-demo](https://match-point-rose.vercel.app/)  `>` [./source-code](https://github.com/varunn29/Match-Point)
+`>` [./live-demo](https://match-point-rose.vercel.app/)  
+`>` [./source-code](https://github.com/varunn29/Match-Point)
 
 `resolve-desk`
 
@@ -23,9 +24,11 @@
 
 `>` [./source-code](https://github.com/varunn29/ResolveDesk)
 
-`nudge`
+`echo`
 
-> A mobile reminder application for creating and managing recurring reminders. It focuses on scheduled notifications, persistent reminder data, and a simple workflow for keeping track of tasks throughout the day.
+> A local-first AI writing assistant built as a browser extension. Designed to learn a user's personal writing style from their own writing data and generate personalized content, with a focus on on-device processing, privacy, and independent writing-style personalization.
+
+`>` [./source-code](https://github.com/varunn29/Echo)
 
 ## What I work with
 
